@@ -28,4 +28,5 @@ let iLoveTheBeatles = (num) => {
     num++
   }
   
+  return array1
 }
