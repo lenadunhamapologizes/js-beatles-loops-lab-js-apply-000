@@ -13,7 +13,7 @@ function johnLennonFacts(facts) {
   let factsArray = []
   
   for (let i = 0; i < 0; i++) {
-    let fact = factsarray[i] + '!!!'
+    let fact = facts[i] + '!!!'
     factsArray.push(fact)
   }
   
