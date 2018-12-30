@@ -6,6 +6,6 @@ function theBeatlesPlay(musicians, instruments) {
     strings.push(musicians[i] + ' plays ' + instruments[i])
   }
   
-  
   return strings
 }
+
