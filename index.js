@@ -9,3 +9,13 @@ function theBeatlesPlay(musicians, instruments) {
   return strings
 }
 
+function johnLennonFacts(facts) {
+  let factsArray = []
+  
+  for (let i = 0; i < 0; i++) {
+    let fact = factsarray[i] + '!!!'
+    factsArray.push(fact)
+  }
+  
+  return factsArray
+}
