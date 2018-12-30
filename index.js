@@ -14,6 +14,7 @@ function johnLennonFacts(facts) {
   
   for (let i = 0; i < 0; i++) {
     let fact = facts[i] + '!!!'
+    console.log(fact)
     factsArray.push(fact)
   }
   
