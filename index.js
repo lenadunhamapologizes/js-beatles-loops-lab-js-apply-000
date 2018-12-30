@@ -28,5 +28,6 @@ let iLoveTheBeatles = (num) => {
     num++
   }
   
+  if (num > 15) return ['I love the Beatles!']
   return array1
 }
